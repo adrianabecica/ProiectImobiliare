@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1622859800 source:c:\users\adriana\desktop\proiect imobiliare\imobiliar.cpp
+	"imobiliar.h"
+	<string.h>
+
+1622859862 c:\users\adriana\desktop\proiect imobiliare\imobiliar.h
+	"Librarii.h"
+
+1623763843 c:\users\adriana\desktop\proiect imobiliare\librarii.h
+	<iostream>
+	<fstream>
+	<list>
+	<string.h>
+
+1623763327 source:c:\users\adriana\desktop\proiect imobiliare\main.cpp
+	<iostream>
+	"meniu.h"
+
+1622859889 c:\users\adriana\desktop\proiect imobiliare\baza_de_date.h
+	"imobiliar.h"
+
+1623766023 source:c:\users\adriana\desktop\proiect imobiliare\baza_de_date.cpp
+	"baza_de_date.h"
+	<bits/stdc++.h>
+
+1623763327 source:c:\users\adriana\desktop\proiect imobiliare\beneficiar.cpp
+	"beneficiar.h"
+	<string.h>
+
+1623769263 c:\users\adriana\desktop\proiect imobiliare\beneficiar.h
+	"Librarii.h"
+
+1623763365 c:\users\adriana\desktop\proiect imobiliare\meniu.h
+
+1623770298 source:c:\users\adriana\desktop\proiect imobiliare\meniu.cpp
+	"meniu.h"
+	"imobiliar.h"
+	"baza_de_date.h"
+	"beneficiar.h"
+	"evidenta_beneficiari.h"
+	<stdio.h>
+	<stdlib.h>
+
+1623763327 c:\users\adriana\desktop\proiect imobiliare\evidenta_beneficiari.h
+	"beneficiar.h"
+
+1623765766 source:c:\users\adriana\desktop\proiect imobiliare\evidenta_beneficiari.cpp
+	"evidenta_beneficiari.h"
+	<bits/stdc++.h>
+
